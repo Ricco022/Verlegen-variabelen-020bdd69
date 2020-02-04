@@ -1,7 +1,3 @@
-var datenew = new Date();
-
-document.getElementById('date').innerHTML = datenew.getHours() + ':' + datenew.getMinutes() + ':' + datenew.getSeconds();
-
 const pi = 3.14;
 
 function dia() {
